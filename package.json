@@ -1,6 +1,6 @@
 {
   "name": "@saadshahd/months",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get milliseconds from months",
   "main": "index.js",
   "repository": {
